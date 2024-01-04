@@ -1,0 +1,41 @@
+/* Remove the navbar's default margin-bottom and rounded borders */ 
+/*nav {
+  color: white;
+  background-color: light-blue;
+}
+
+.my-footer {
+  color: #ffffff;
+  background-color: #3f51b5;
+  padding: 15px;
+}
+ 
+*/
+figure {
+  margin-top: 1em;
+  margin-bottom: 1em;
+}
+
+.carousel {
+	margin-top: 20px;
+	margin-bottom: 20px;
+	width: 100vh;
+  margin: auto;
+  padding: 20px;
+}
+
+.calendar-container {
+	height: 400px;
+	width: 100%;
+	margin-bottom: 20px;
+}
+
+@media (min-width: 768px) {
+.row-eq-height {
+  flex: 1;
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+}
+
